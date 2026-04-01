@@ -44,7 +44,8 @@ body{
     color:white;
 }
 #header_bottom h1{
-    padding-left:5vw;
-    padding-top:13vh;
+    background-color: black;
     margin:0;
+    margin-left:5vw;
+    margin-top:13vh;
 }
